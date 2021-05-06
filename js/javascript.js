@@ -5,7 +5,7 @@ function prueba() {
 
 function prueba2(){
 
-	$("#b").removeClass('bg-dark').addClass('bg-primary');
+	$("#b").removeClass('bg-info').addClass('bg-primary');
 
 
 }	
