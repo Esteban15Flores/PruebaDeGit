@@ -1,6 +1,6 @@
 function prueba() {
   document.getElementById("demo").innerHTML = "Hello World";
-  $("#p").html("AAAAAAAAAAAAAAA");
+  $("#p").html("AAAAAAAAA");
 }
 
 function prueba2(){
